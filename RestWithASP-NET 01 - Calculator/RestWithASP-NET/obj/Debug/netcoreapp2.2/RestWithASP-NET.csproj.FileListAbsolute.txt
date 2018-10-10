@@ -1,0 +1,14 @@
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\bin\Debug\netcoreapp2.2\RestWithASP-NET.deps.json
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\bin\Debug\netcoreapp2.2\RestWithASP-NET.runtimeconfig.json
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\bin\Debug\netcoreapp2.2\RestWithASP-NET.runtimeconfig.dev.json
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\bin\Debug\netcoreapp2.2\RestWithASP-NET.dll
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\bin\Debug\netcoreapp2.2\RestWithASP-NET.pdb
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.csprojAssemblyReference.cache
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.csproj.CoreCompileInputs.cache
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.RazorAssemblyInfo.cache
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.RazorAssemblyInfo.cs
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.AssemblyInfoInputs.cache
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.AssemblyInfo.cs
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.RazorTargetAssemblyInfo.cache
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.dll
+C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.pdb
