@@ -12,3 +12,17 @@ C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-
 C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.RazorTargetAssemblyInfo.cache
 C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.dll
 C:\Users\Meta\Documents\Visual Studio 2017\Projects\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.pdb
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\bin\Debug\netcoreapp2.2\RestWithASP-NET.deps.json
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\bin\Debug\netcoreapp2.2\RestWithASP-NET.runtimeconfig.json
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\bin\Debug\netcoreapp2.2\RestWithASP-NET.runtimeconfig.dev.json
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\bin\Debug\netcoreapp2.2\RestWithASP-NET.dll
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\bin\Debug\netcoreapp2.2\RestWithASP-NET.pdb
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.csprojAssemblyReference.cache
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.csproj.CoreCompileInputs.cache
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.RazorAssemblyInfo.cache
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.RazorAssemblyInfo.cs
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.AssemblyInfoInputs.cache
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.AssemblyInfo.cs
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.RazorTargetAssemblyInfo.cache
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.dll
+C:\Projetos\github\RestWithASP-NET\RestWithASP-NET 01 - Calculator\RestWithASP-NET\obj\Debug\netcoreapp2.2\RestWithASP-NET.pdb

@@ -11683,11 +11683,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meta\\Documents\\Visual Studio 2017\\Projects\\RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
+      "projectUniqueName": "C:\\Projetos\\github\\RestWithASP-NET\\RestWithASP-NET 01 - Calculator\\RestWithASP-NET\\RestWithASP-NET.csproj",
       "projectName": "RestWithASP-NET",
-      "projectPath": "C:\\Users\\Meta\\Documents\\Visual Studio 2017\\Projects\\RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
+      "projectPath": "C:\\Projetos\\github\\RestWithASP-NET\\RestWithASP-NET 01 - Calculator\\RestWithASP-NET\\RestWithASP-NET.csproj",
       "packagesPath": "C:\\Users\\Meta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Meta\\Documents\\Visual Studio 2017\\Projects\\RestWithASP-NET\\RestWithASP-NET\\obj\\",
+      "outputPath": "C:\\Projetos\\github\\RestWithASP-NET\\RestWithASP-NET 01 - Calculator\\RestWithASP-NET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
