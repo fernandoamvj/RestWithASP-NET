@@ -11,13 +11,45 @@ namespace RestWithASP_NET.Controllers
     public class CalculatorController : ControllerBase
     {
 
-        // GET api/values/5/5
-        [HttpGet("{firstNumber}/{secondNumber}")]
-        public IActionResult Get(string firstNumber, string secondNumber)
+        // GET api/calculator/sum/5/5
+        [HttpGet("sum/{firstNumber}/{secondNumber}")]
+        public IActionResult Sum(string firstNumber, string secondNumber)
         {
             if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
             {
                 var result = ConvertToDecimal(firstNumber) + ConvertToDecimal(secondNumber);
+                return Ok(result.ToString());
+            }
+            return BadRequest("Invalid Input");
+        }
+
+        // GET api/calculator/5/5
+        [HttpGet("subtraction/{firstNumber}/{secondNumber}")]
+        public IActionResult Subtraction(string firstNumber, string secondNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var result = ConvertToDecimal(firstNumber) - ConvertToDecimal(secondNumber);
+                return Ok(result.ToString());
+            }
+            return BadRequest("Invalid Input");
+        }
+        [HttpGet("div/{firstNumber}/{secondNumber}")]
+        public IActionResult Division(string firstNumber, string secondNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var result = ConvertToDecimal(firstNumber) / ConvertToDecimal(secondNumber);
+                return Ok(result.ToString());
+            }
+            return BadRequest("Invalid Input");
+        }
+        [HttpGet("mult/{firstNumber}/{secondNumber}")]
+        public IActionResult Multiplication(string firstNumber, string secondNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var result = ConvertToDecimal(firstNumber) * ConvertToDecimal(secondNumber);
                 return Ok(result.ToString());
             }
             return BadRequest("Invalid Input");
