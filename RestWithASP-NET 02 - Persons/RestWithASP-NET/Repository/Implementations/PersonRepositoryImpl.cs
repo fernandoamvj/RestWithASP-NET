@@ -5,13 +5,13 @@ using System.Threading.Tasks;
 using RestWithASPNET.Model;
 using RestWithASPNET.Model.Context;
 
-namespace RestWithASPNET.Services.Implementations
+namespace RestWithASPNET.Repository.Implementations
 {
-    public class PersonServiceImpl : IPersonService
+    public class PersonRepositoryImpl : IPersonRepository
     {
         private MySqlContext _context;
 
-        public PersonServiceImpl(MySqlContext context)
+        public PersonRepositoryImpl(MySqlContext context)
         {
             _context = context;
         }
