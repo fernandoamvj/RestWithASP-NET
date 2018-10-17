@@ -24,11 +24,9 @@ namespace RestWithASP_NET
         private readonly ILogger _logger;
         public IConfiguration _configuration { get; }
         public IHostingEnvironment _environment { get; }
-        public Startup(IConfiguration configuration, IHostingEnvironment environment, ILogger<Startup> logger)
+        public Startup(IConfiguration configuration)
         {
             _configuration = configuration;
-            _environment = environment;
-            _logger = logger;
         }
 
         
@@ -39,26 +37,6 @@ namespace RestWithASP_NET
             //Adicionando serviço do banco de dados
             var connectionString = _configuration["MySqlConnection:MySqlConnectionString"];
             services.AddDbContext<MySqlContext>(options => options.UseMySql(connectionString));
-
-            if (_environment.IsDevelopment())
-            {
-                try
-                {
-                    var evolveConnection = new MySql.Data.MySqlClient.MySqlConnection(connectionString);
-                    var evolve = new Evolve.Evolve("evolve.json", evolveConnection, msg => _logger.LogInformation(msg))
-                    {
-                        Locations = new List<string> { "db/migrations" },
-                        IsEraseDisabled = true
-                    };
-                    evolve.Migrate();
-
-                }
-                catch (Exception ex)
-                {
-                    _logger.LogCritical("Database migration failed", ex);
-                    throw;
-                }
-            }
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             //versionamento da api
